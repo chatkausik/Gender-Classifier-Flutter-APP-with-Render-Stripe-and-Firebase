@@ -18,7 +18,8 @@ Credits go to the FastAI team, Naveen Chanakya, and the Flutter team. I integrat
 
 ### Step 2: Transfer Learning
 
-- fast.ai jupyter notebook for Gender Classification --> gender-detection-face-with-fastai.ipynb  It's retraining a 'resnet34' image classification model. This is transfer learning.
+- fast.ai jupyter notebook for Gender Classification --> gender-detection-face-with-fastai.ipynb.
+  It's retraining a 'resnet34' image classification model. This is transfer learning.
 - Save the resulting model pkl file to google drive, save the download link.
 
 ### Step 3: Signup for Firebase + Stripe
