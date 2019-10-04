@@ -1,6 +1,10 @@
 # Gender-Classifier-Flutter-APP-with-Render-Stripe-and-Firebase
 Gender Classifier Flutter APP with Render, Stripe and Firebase
 
+Go to below render implementation of Gender Classification:
+
+https://fast-akjj.onrender.com 
+
 ## Credits
 
 Credits go to the FastAI team, Naveen Chanakya, and the Flutter team. I integrated a few different pieces together to form a SaaS pipeline. There are 3 components here; A web API, a model training script, and a mobile app. The code in this repository is for the starter flutter app. Let's go through the 5 step process below. Pull Requests are always welcome!
@@ -23,11 +27,8 @@ Got the Dataset from Kaggle for Gender Classification.
 
 ### Step 4: Deploy the Web API 
 
-- Fork [this](https://github.com/render-examples/fastai-v3) repository.
-- Follow the instructions in its README to deploy it to render
-- Once deployed, check that it works. 
-- Then replace line 12 in 'server.py' of the web example with a link to your own classifier pkl file and re-deploy
-- Make any cosmetic changes to the front-end inteface that you'd like
+- Deployed in Render Web API --> https://fast-akjj.onrender.com
+
 
 ### Step 5: Build the Mobile App
 
