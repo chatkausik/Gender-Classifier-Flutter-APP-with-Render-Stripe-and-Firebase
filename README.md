@@ -28,6 +28,8 @@ Got the Dataset from Kaggle for Gender Classification.
 ### Step 4: Deploy the Web API 
 
 - Deployed in Render Web API --> https://fast-akjj.onrender.com
+- Render deploy code --> https://github.com/chatkausik/fastai-v3
+- 
 
 
 ### Step 5: Build the Mobile App
