@@ -14,11 +14,11 @@ Credits go to the FastAI team, Naveen Chanakya, and the Flutter team. I integrat
 ##### What is the image classification service you'd like to build? Once you decide, find a related dataset using these tools
 - [Dataset Search](https://toolbox.google.com/datasetsearch)
 - [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets)
-Got the Dataset from Kaggle for Gender Classification.
+- Got the Dataset from Kaggle for Gender Classification.
 
 ### Step 2: Transfer Learning
 
-- Run [this](https://github.com/naveenchanakya/bear-classifier/blob/master/bear_classifier.ipynb) notebook on your local machine or upload and run it to [colab](colab.research.google.com). Replace the bear dataset with your own image dataset. It's retraining a 'resnet34' image classification model. This is transfer learning.
+- fast.ai jupyter notebook for Gender Classification --> gender-detection-face-with-fastai.ipynb  It's retraining a 'resnet34' image classification model. This is transfer learning.
 - Save the resulting model pkl file to google drive, save the download link.
 
 ### Step 3: Signup for Firebase + Stripe
@@ -29,7 +29,6 @@ Got the Dataset from Kaggle for Gender Classification.
 
 - Deployed in Render Web API --> https://fast-akjj.onrender.com
 - Render deploy code --> https://github.com/chatkausik/fastai-v3
-- 
 
 
 ### Step 5: Build the Mobile App
