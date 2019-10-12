@@ -1,20 +1,19 @@
 # Gender-Classifier-Flutter-APP-with-Render-Stripe-and-Firebase
 Gender Classifier Flutter APP with Render, Stripe and Firebase
 
-Go to below render implementation of Gender Classification:
+Using Fast.Ai deep learning i have developed one Flutter App "Man/Woman classifier" which will take picture either uploading from your andriod/iphone devices or you can capture from camera and classify to Man/Woman. Used render for web implementation, signin and signup i have used firestore/firebase and for payments, used Stripe.
 
-https://fast-akjj.onrender.com 
+Go to below render implementation of Man/Woman Classification:
+
+https://gender-classifier.onrender.com/
 
 ## Credits
 
-Credits go to the FastAI team, Naveen Chanakya, and the Flutter team. I integrated a few different pieces together to form a SaaS pipeline. There are 3 components here; A web API, a model training script, and a mobile app. The code in this repository is for the starter flutter app. Let's go through the 5 step process below. Pull Requests are always welcome!
+Credits go to the FastAI team, Naveen Chanakya, and the Flutter team. I integrated a few different pieces together to form a SaaS pipeline. There are 3 components here; A web API, a model training script, and a mobile app. 
 
 ### Step 1: Find an Image Dataset
 
-##### What is the image classification service you'd like to build? Once you decide, find a related dataset using these tools
-- [Dataset Search](https://toolbox.google.com/datasetsearch)
-- [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets)
-- Got the Dataset from Kaggle for Gender Classification.
+- Got the Dataset from Kaggle for Gender Classification. It's set of images od Man and woman pictures.
 
 ### Step 2: Transfer Learning
 
@@ -28,20 +27,14 @@ Credits go to the FastAI team, Naveen Chanakya, and the Flutter team. I integrat
 
 ### Step 4: Deploy the Web API 
 
-- Deployed in Render Web API --> https://fast-akjj.onrender.com
-- Render deploy code --> https://github.com/chatkausik/fastai-v3
+- Deployed in Render Web API --> https://gender-classifier.onrender.com/
+
 
 
 ### Step 5: Build the Mobile App
 
 - Install Flutter [here](https://flutter.dev/docs/get-started/install) 
-- Download this code
-- Open it in android studio as a new flutter project
-- it will ask you to 'get' all dependencies, say yes and it'll will all be installed automatically
-- Replace the default render link in 'main.dart' to the link to your deployed render app
-- Notice the 2 functions for signup and login. This is where your stripe and firebase authentication
-code will be placed
-- See [this](https://firebase.google.com/docs/flutter/setup) and [this](https://pub.dev/packages/stripe_payment)
+
 
 
 
