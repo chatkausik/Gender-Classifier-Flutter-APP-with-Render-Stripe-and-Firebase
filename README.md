@@ -53,3 +53,9 @@ Example-2:
 Example-3:
 ![Alt text](/Output/screenshots/flutter_1.png?raw=true "Optional Title")
 
+
+
+### Future Plan:
+
+1. Some more useful features and incorporate more payment options.
+2. Currently works fine with only Man/Woman pictures, if you upload other picture, my app doesn't take care that stuff. Will enhance and more scalable.
