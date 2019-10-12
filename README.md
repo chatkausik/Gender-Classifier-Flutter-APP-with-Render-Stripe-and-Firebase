@@ -29,10 +29,13 @@ Credits go to the FastAI team, Naveen Chanakya, and the Flutter team. I integrat
 
 - Deployed in Render Web API --> https://gender-classifier.onrender.com/
 
+Example-1:
 ![Alt text](/Output/screenshots/render_1.png?raw=true "Optional Title")
 
+Example-2:
 [Alt text](/Output/screenshots/render_2.png?raw=true "Optional Title")
 
+Example-3:
 [Alt text](/Output/screenshots/render_3.png?raw=true "Optional Title")
 
 
@@ -41,7 +44,12 @@ Credits go to the FastAI team, Naveen Chanakya, and the Flutter team. I integrat
 
 - Install Flutter [here](https://flutter.dev/docs/get-started/install) 
 
+Example-1:
+![Alt text](/Output/screenshots/flutter_1.png?raw=true "Optional Title")
 
+Example-2:
+![Alt text](/Output/screenshots/flutter_2.png?raw=true "Optional Title")
 
-
+Example-3:
+![Alt text](/Output/screenshots/flutter_1.png?raw=true "Optional Title")
 
